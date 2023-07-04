@@ -1,5 +1,5 @@
 # Automatic_Vector_Pattern_Generation
-This repository contains code and materials for the paper _Color, layout, and fashion: generating aesthetically pleasing vector patterns for fashion design, _contributed by Hong Qu, K. P. Chau, and P. Y. Mok*. All rights reserved by authors.
+This repository contains code and materials for the paper _Color, layout, and fashion: generating aesthetically pleasing vector patterns for fashion design,_ contributed by Hong Qu, K. P. Chau, and P. Y. Mok*. All rights reserved by authors.
 
 -----
 ## Introduction
